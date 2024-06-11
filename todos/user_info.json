@@ -1,0 +1,140 @@
+{
+  "id": 1,
+  "name": "Leanne Graham",
+  "username": "Bret",
+  "email": "Sincere@april.biz",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "hildegard.org",
+  "todos": [
+    {
+      "UserId": 1,
+      "Id": 1,
+      "Title": "delectus aut autem",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 2,
+      "Title": "quis ut nam facilis et officia qui",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 3,
+      "Title": "fugiat veniam minus",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 4,
+      "Title": "et porro tempora",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 5,
+      "Title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 6,
+      "Title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 7,
+      "Title": "illo expedita consequatur quia in",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 8,
+      "Title": "quo adipisci enim quam ut ab",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 9,
+      "Title": "molestiae perspiciatis ipsa",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 10,
+      "Title": "illo est ratione doloremque quia maiores aut",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 11,
+      "Title": "vero rerum temporibus dolor",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 12,
+      "Title": "ipsa repellendus fugit nisi",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 13,
+      "Title": "et doloremque nulla",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 14,
+      "Title": "repellendus sunt dolores architecto voluptatum",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 15,
+      "Title": "ab voluptatum amet voluptas",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 16,
+      "Title": "accusamus eos facilis sint et aut voluptatem",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 17,
+      "Title": "quo laboriosam deleniti aut qui",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 18,
+      "Title": "dolorum est consequatur ea mollitia in culpa",
+      "Completed": false
+    },
+    {
+      "UserId": 1,
+      "Id": 19,
+      "Title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
+      "Completed": true
+    },
+    {
+      "UserId": 1,
+      "Id": 20,
+      "Title": "ullam nobis libero sapiente ad optio sint",
+      "Completed": true
+    }
+  ]
+}
