@@ -55,7 +55,7 @@ public class UsersController : ControllerBase
         return Ok(user);
     }
 
-    [HttpPut("{id:Guid}")]
+    [HttpDelete("{id:Guid}")]
     [Authorize(Roles = "Manager")]
     [ProducesResponseType(typeof(User), (int)HttpStatusCode.OK)]
     public async Task<IActionResult> DeleteUserAsync([FromRoute] Guid id)
